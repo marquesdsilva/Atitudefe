@@ -1,11 +1,11 @@
-<h1>Bem vindo a Atitude de Fé</h1>
+![logo](https://user-images.githubusercontent.com/78667317/142703664-3efa3957-8373-44ff-956a-93b18428e34b.jpeg)
 
 You can use the [editor on GitHub](https://github.com/marquesdsilva/Atitudefe/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-![logo](https://user-images.githubusercontent.com/78667317/142703664-3efa3957-8373-44ff-956a-93b18428e34b.jpeg)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
